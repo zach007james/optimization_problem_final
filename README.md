@@ -1,2 +1,5 @@
 # optimization_problem_final
-Solution for final project for Dr. Wolenski 
+Multithreaded solution generator (utilizing DP) for final project in Dr. Wolenski 
+
+to compile: 'gcc main.c -o m -lpthread -lm'
+to run: './m'
